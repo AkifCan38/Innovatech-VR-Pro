@@ -29,6 +29,7 @@ Use media queries to ensure responsive design.
 ## My Page
 https://innovatech-vr-pro.vercel.app
 ## My Page Video
+https://github.com/AkifCan38/Innovatech-VR-Pro/assets/148538864/bc572dcd-690f-4d00-ba9c-c8004754c4f9
 ## Some Screen Shots my page
 ### App.js
 ![Screenshot (85)](https://github.com/AkifCan38/Innovatech-VR-Pro/assets/148538864/603b5974-6d0b-4a22-8d41-57458448e2a5)
